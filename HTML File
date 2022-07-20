@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BlackJack - Team 4</title>
+</head>
+<body style="background-color:rgb(44, 123, 37);">
+
+<h1 style="color:black; text-align:center; font-family: Roboto; font-size: 70px">BlackJack</h1>
+<hr>
+<h2 style="color:black; text-align:center; font-family: Roboto; font-size: 40px">Can you beat the house?</h2>
+
+<button style="color:blue;"> DEAL! </button>
+<button style ="background-color:#607369;"> Deal </button>
+<Button  style="font-size:20px;"> Hit </button>
+<Button> Stand </button>
+<Button> Split </button>
+<Button> PLAY! </button>
+
+    <body>
+ 
+        <h1>What Is BlackJack?</B> </h1>
+        BlackJack is a card game the objective of whcih to be dealt cards having a higher count than those of the dealer up to but not exceeding 21.<br>
+        <hr>    
+     
+        <B>Objective:</B><br>
+        The objective of black jack is to beat the house(aka the dealer). <br>
+        To do this you must use your cards to get close to 21 but never over 21. <br>
+        If you go over 21 GAME OVER!!!
+        <br>
+       
+        <B>How To Play:</B>
+            <ol>
+            <li>Place Your Bet</li>
+            <li> 2 Cards Are Dealt To Each Player Face Up </li>
+            <li> Evaluate Your Hand</li>
+                <li> The Dealer Will Be Revealed At This Time </li>
+            <li> Depending On The Total Of Your Cards You May Choose:</li>
+                <ul>
+                <li> <B>Stand Or Stay:</B>(take no additonal Cards)</li>
+                <li> <B>Hit:</B>(Recieve Addittional Cards)</li>
+                <li> <B>Double Down:</B>( Double Your Original Bet)</li>
+                <li> <B>Split:</B> (Add An Additional Bet To Turn 2 Cards Of The Same Value Into 2 Seperate Hands)
+                <li> <B>BlackJack:</B>(If Your First 2 Cards Are An Ace And A 10-Value Card You've Got A BlackJack)</li>
+                    <ul>
+                        <li> You Can Relax And Collect 150% Of Your Original Bet (3:2)</li>
+                    </ul>
+                </ul>
+            <li> If You Have the Lowest Deck You loose Your Bet</li>
+            <li> If You Were The Second To Last You Have A Push</li>
+            <li> If You Won You Take The Losers Bets</li>
+            <img scr="OneDrive-Personal/Documents/Pictures/BadBust.jpg" alt="">
+            </ol>  
+        <B>Rules Of Blackjack:</B>
+            <ol>
+                <li>2-10 cards conut are the value on the card</li>
+                <li>Face Cards(Joker, Queen, King) Count as 10</li>
+                <li>Ace counts as either 1 or 11( which ever helps your hand)</li>
+            </ol>
+       
+        <B>Tips:</B>
+        <ol>
+            <li> Start Small</li>
+            <li>Check The dealer's Up Card</li>
+            <li>GOOD LUCK!!!</li>
+        </ol>
+     
+    </body>
+    
+
+
+</body>
+</html>
